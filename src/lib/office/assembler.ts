@@ -138,13 +138,21 @@ function assembleEveningPrayer(
     sections.push(buildPsalmsSection(readings.psalms.evening, 'evening'));
   }
 
-  // Lessons (same readings, evening uses them too)
+  // Lessons
   if (readings.lessons.first) {
     sections.push(buildLessonSection('The First Lesson', readings.lessons.first));
   }
+
+  // Magnificat (after OT lesson in Evening Prayer)
+  sections.push(buildEveningCanticle('after-ot', litDay));
+
   if (readings.lessons.second) {
     sections.push(buildLessonSection('The Second Lesson', readings.lessons.second));
   }
+
+  // Nunc Dimittis (after NT lesson in Evening Prayer)
+  sections.push(buildEveningCanticle('after-nt', litDay));
+
   if (readings.lessons.gospel) {
     sections.push(buildLessonSection('The Gospel', readings.lessons.gospel));
   }
@@ -353,6 +361,21 @@ function buildCanticleSection(position: string, litDay: LiturgicalDay): Assemble
 
   return {
     id: `canticle-${position}`,
+    title: canticle.name,
+    elements: [
+      { type: 'rubric', content: `${canticle.english}  —  ${canticle.source}` },
+      { type: 'canticle', content: canticle.text, whyTopic: canticle.whyTopic },
+      { type: 'text', content: prayers.gloriaPatri.text, speaker: 'all' },
+    ],
+  };
+}
+
+function buildEveningCanticle(position: string, litDay: LiturgicalDay): AssembledSection {
+  // Evening Prayer: Magnificat after OT, Nunc Dimittis after NT
+  const canticle = position === 'after-ot' ? canticles.magnificat : canticles.nuncDimittis;
+
+  return {
+    id: `canticle-evening-${position}`,
     title: canticle.name,
     elements: [
       { type: 'rubric', content: `${canticle.english}  —  ${canticle.source}` },

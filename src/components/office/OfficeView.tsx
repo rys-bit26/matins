@@ -4,6 +4,8 @@ import { useSettingsStore } from '../../stores/settingsStore';
 import { useTypeStyles } from '../../hooks/useTypeStyles';
 import { AssembledOffice, AssembledSection, AssembledElement } from '../../lib/office/types';
 import { WhyTooltip } from '../learn/WhyTooltip';
+import { InlineScripture } from './InlineScripture';
+import { InlinePsalm } from './InlinePsalm';
 
 interface OfficeViewProps {
   office: AssembledOffice;
@@ -90,29 +92,19 @@ function ElementRenderer({ element, readingFont, readingFontBold, readingFontIta
     case 'psalm':
       return (
         <View style={styles.psalmBlock}>
-          <Text style={[styles.psalmRef, { fontFamily: readingFont }]}>
+          <Text style={[styles.psalmRef, { fontFamily: readingFontBold, fontWeight: isSerif ? undefined : '600' as any }]}>
             {element.content}
           </Text>
           {element.reference && (
-            <Text style={styles.psalmNote}>
-              Tap to read full text
-            </Text>
+            <InlinePsalm psalmRef={element.reference} readingFont={readingFont} />
           )}
         </View>
       );
 
     case 'scripture':
       if (!element.content && element.reference) {
-        // Placeholder for scripture that will be fetched
         return (
-          <View style={styles.scriptureBlock}>
-            <Text style={[styles.scriptureRef, { fontFamily: readingFont }]}>
-              {element.reference}
-            </Text>
-            <Text style={styles.scriptureNote}>
-              Scripture text loaded when you tap to read
-            </Text>
-          </View>
+          <InlineScripture reference={element.reference} readingFont={readingFont} />
         );
       }
       return (

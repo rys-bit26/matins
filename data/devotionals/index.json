@@ -88,5 +88,95 @@
     "circa": "318",
     "tags": ["incarnation", "redemption", "christ"],
     "seasons": ["christmas", "advent"]
+  },
+  {
+    "slug": "augustine-prayer-of-praise",
+    "title": "A Prayer of Praise",
+    "author": "Augustine of Hippo",
+    "source": "Confessions, Book I",
+    "circa": "397",
+    "tags": ["praise", "wonder", "creation"],
+    "seasons": ["ordinary-time", "easter"]
+  },
+  {
+    "slug": "kempis-on-patience",
+    "title": "On Patience in Suffering",
+    "author": "Thomas à Kempis",
+    "source": "The Imitation of Christ, Book III",
+    "circa": "1418",
+    "tags": ["patience", "suffering", "trust"],
+    "seasons": ["lent", "ordinary-time"]
+  },
+  {
+    "slug": "teresa-avila-interior-castle",
+    "title": "The Interior Castle",
+    "author": "Teresa of Avila",
+    "source": "The Interior Castle",
+    "circa": "1577",
+    "tags": ["prayer", "mysticism", "journey"],
+    "seasons": ["ordinary-time", "lent"]
+  },
+  {
+    "slug": "john-of-cross-dark-night",
+    "title": "The Dark Night of the Soul",
+    "author": "John of the Cross",
+    "source": "Dark Night of the Soul",
+    "circa": "1585",
+    "tags": ["suffering", "purification", "faith"],
+    "seasons": ["lent", "holy-week"]
+  },
+  {
+    "slug": "lewis-mere-christianity-hope",
+    "title": "On Hope",
+    "author": "C.S. Lewis",
+    "source": "Mere Christianity",
+    "circa": "1952",
+    "tags": ["hope", "heaven", "desire"],
+    "seasons": ["advent", "easter"]
+  },
+  {
+    "slug": "bonhoeffer-life-together",
+    "title": "Life Together",
+    "author": "Dietrich Bonhoeffer",
+    "source": "Life Together",
+    "circa": "1939",
+    "tags": ["community", "worship", "daily-life"],
+    "seasons": ["ordinary-time", "pentecost"]
+  },
+  {
+    "slug": "bernard-loving-god",
+    "title": "On Loving God",
+    "author": "Bernard of Clairvaux",
+    "source": "On Loving God",
+    "circa": "1126",
+    "tags": ["love", "devotion", "grace"],
+    "seasons": ["ordinary-time", "easter"]
+  },
+  {
+    "slug": "chrysostom-thanksgiving",
+    "title": "On Gratitude",
+    "author": "John Chrysostom",
+    "source": "Homilies on Thessalonians",
+    "circa": "400",
+    "tags": ["gratitude", "joy", "prayer"],
+    "seasons": ["ordinary-time", "christmas"]
+  },
+  {
+    "slug": "gregory-great-pastoral-care",
+    "title": "On the Care of Souls",
+    "author": "Gregory the Great",
+    "source": "Pastoral Care",
+    "circa": "590",
+    "tags": ["leadership", "humility", "service"],
+    "seasons": ["ordinary-time"]
+  },
+  {
+    "slug": "spurgeon-morning-and-evening",
+    "title": "Morning Devotion",
+    "author": "Charles Spurgeon",
+    "source": "Morning and Evening",
+    "circa": "1865",
+    "tags": ["devotion", "morning", "scripture"],
+    "seasons": ["ordinary-time", "epiphany"]
   }
 ]

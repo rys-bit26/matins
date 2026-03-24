@@ -45,5 +45,25 @@
     "source": "",
     "text": "We praise you, O God,\nwe acclaim you as Lord;\nall creation worships you,\nthe Father everlasting.\n\nTo you all angels, all the powers of heaven,\nthe cherubim and seraphim, sing in endless praise:\nHoly, holy, holy Lord, God of power and might,\nheaven and earth are full of your glory.\n\nThe glorious company of apostles praise you.\nThe noble fellowship of prophets praise you.\nThe white-robed army of martyrs praise you.\n\nThroughout the world the holy Church acclaims you:\nFather, of majesty unbounded,\nyour true and only Son, worthy of all worship,\nand the Holy Spirit, advocate and guide.\n\nYou, Christ, are the king of glory,\nthe eternal Son of the Father.\nWhen you became man to set us free\nyou did not shun the Virgin's womb.\n\nYou overcame the sting of death\nand opened the kingdom of heaven to all believers.\nYou are seated at God's right hand in glory.\nWe believe that you will come to be our judge.\n\nCome then, Lord, and help your people,\nbought with the price of your own blood,\nand bring us with your saints\nto glory everlasting.",
     "use": "after-ot-alternate"
+  },
+  "magnificat": {
+    "number": 15,
+    "name": "Magnificat",
+    "latin": "Magnificat anima mea Dominum",
+    "english": "The Song of Mary",
+    "source": "Luke 1:46-55",
+    "text": "My soul proclaims the greatness of the Lord,\nmy spirit rejoices in God my Savior;\nfor he has looked with favor on his lowly servant.\n\nFrom this day all generations will call me blessed:\nthe Almighty has done great things for me,\nand holy is his Name.\n\nHe has mercy on those who fear him\nin every generation.\n\nHe has shown the strength of his arm,\nhe has scattered the proud in their conceit.\n\nHe has cast down the mighty from their thrones,\nand has lifted up the lowly.\n\nHe has filled the hungry with good things,\nand the rich he has sent away empty.\n\nHe has come to the help of his servant Israel,\nfor he has remembered his promise of mercy,\nThe promise he made to our fathers,\nto Abraham and his children for ever.",
+    "whyTopic": "what-is-the-magnificat",
+    "use": "evening-after-ot"
+  },
+  "nuncDimittis": {
+    "number": 17,
+    "name": "Nunc Dimittis",
+    "latin": "Nunc dimittis servum tuum, Domine",
+    "english": "The Song of Simeon",
+    "source": "Luke 2:29-32",
+    "text": "Lord, you now have set your servant free\nto go in peace as you have promised;\n\nFor these eyes of mine have seen the Savior,\nwhom you have prepared for all the world to see:\n\nA Light to enlighten the nations,\nand the glory of your people Israel.",
+    "whyTopic": "what-is-the-nunc-dimittis",
+    "use": "evening-after-nt"
   }
 }
