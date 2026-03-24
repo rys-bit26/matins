@@ -1,0 +1,71 @@
+{
+  "confession": {
+    "rubric": "The Officiant says to the people",
+    "invitation": "Let us confess our sins against God and our neighbor.",
+    "rubricSilence": "Silence may be kept.",
+    "text": "Most merciful God,\nwe confess that we have sinned against you\nin thought, word, and deed,\nby what we have done,\nand by what we have left undone.\nWe have not loved you with our whole heart;\nwe have not loved our neighbors as ourselves.\nWe are truly sorry and we humbly repent.\nFor the sake of your Son Jesus Christ,\nhave mercy on us and forgive us;\nthat we may delight in your will,\nand walk in your ways,\nto the glory of your Name. Amen.",
+    "speaker": "all",
+    "absolution": "Almighty God have mercy on you, forgive you all your sins through our Lord Jesus Christ, strengthen you in all goodness, and by the power of the Holy Spirit keep you in eternal life. Amen.",
+    "absolutionSpeaker": "officiant",
+    "whyTopic": "why-confession-of-sin"
+  },
+  "invitatory": {
+    "versicle": "Lord, open our lips.",
+    "response": "And our mouth shall proclaim your praise.",
+    "whyTopic": "what-is-the-invitatory"
+  },
+  "gloriaPatri": {
+    "text": "Glory to the Father, and to the Son, and to the Holy Spirit:\nas it was in the beginning, is now, and will be for ever. Amen.",
+    "speaker": "all",
+    "whyTopic": "what-is-the-gloria-patri"
+  },
+  "apostlesCreed": {
+    "rubric": "Officiant and People together, all standing",
+    "text": "I believe in God, the Father almighty,\ncreator of heaven and earth.\nI believe in Jesus Christ, his only Son, our Lord.\nHe was conceived by the power of the Holy Spirit\nand born of the Virgin Mary.\nHe suffered under Pontius Pilate,\nwas crucified, died, and was buried.\nHe descended to the dead.\nOn the third day he rose again.\nHe ascended into heaven,\nand is seated at the right hand of the Father.\nHe will come again to judge the living and the dead.\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand the life everlasting. Amen.",
+    "speaker": "all",
+    "whyTopic": "what-is-the-apostles-creed"
+  },
+  "lordsPrayer": {
+    "rubric": "The People stand or kneel",
+    "text": "Our Father, who art in heaven,\nhallowed be thy Name,\nthy kingdom come,\nthy will be done,\non earth as it is in heaven.\nGive us this day our daily bread.\nAnd forgive us our trespasses,\nas we forgive those\nwho trespass against us.\nAnd lead us not into temptation,\nbut deliver us from evil.\nFor thine is the kingdom,\nand the power, and the glory,\nfor ever and ever. Amen.",
+    "speaker": "all"
+  },
+  "suffragesA": {
+    "pairs": [
+      { "v": "Show us your mercy, O Lord;", "r": "And grant us your salvation." },
+      { "v": "Clothe your ministers with righteousness;", "r": "Let your people sing with joy." },
+      { "v": "Give peace, O Lord, in all the world;", "r": "For only in you can we live in safety." },
+      { "v": "Lord, keep this nation under your care;", "r": "And guide us in the way of justice and truth." },
+      { "v": "Let your way be known upon earth;", "r": "Your saving health among all nations." },
+      { "v": "Let not the needy, O Lord, be forgotten;", "r": "Nor the hope of the poor be taken away." },
+      { "v": "Create in us clean hearts, O God;", "r": "And sustain us with your Holy Spirit." }
+    ]
+  },
+  "suffragesB": {
+    "pairs": [
+      { "v": "Save your people, Lord, and bless your inheritance;", "r": "Govern and uphold them, now and always." },
+      { "v": "Day by day we bless you;", "r": "We praise your Name for ever." },
+      { "v": "Lord, keep us from all sin today;", "r": "Have mercy on us, Lord, have mercy." },
+      { "v": "Lord, show us your love and mercy;", "r": "For we put our trust in you." },
+      { "v": "In you, Lord, is our hope;", "r": "And we shall never hope in vain." }
+    ]
+  },
+  "generalThanksgiving": {
+    "rubric": "Officiant and People",
+    "text": "Almighty God, Father of all mercies,\nwe your unworthy servants give you humble thanks\nfor all your goodness and loving-kindness\nto us and to all whom you have made.\nWe bless you for our creation, preservation,\nand all the blessings of this life;\nbut above all for your immeasurable love\nin the redemption of the world by our Lord Jesus Christ;\nfor the means of grace, and for the hope of glory.\nAnd, we pray, give us such an awareness of your mercies,\nthat with truly thankful hearts we may show forth your praise,\nnot only with our lips, but in our lives,\nby giving up our selves to your service,\nand by walking before you\nin holiness and righteousness all our days;\nthrough Jesus Christ our Lord,\nto whom, with you and the Holy Spirit,\nbe honor and glory throughout all ages. Amen.",
+    "speaker": "all"
+  },
+  "dismissal": {
+    "text": "Let us bless the Lord.",
+    "response": "Thanks be to God.",
+    "easter": {
+      "text": "Let us bless the Lord. Alleluia, alleluia.",
+      "response": "Thanks be to God. Alleluia, alleluia."
+    }
+  },
+  "grace": {
+    "text": "The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. Amen.",
+    "source": "2 Corinthians 13:14",
+    "speaker": "officiant"
+  }
+}

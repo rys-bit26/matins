@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "what-is-the-daily-office",
+    "title": "What is the Daily Office?",
+    "category": "foundations",
+    "summary": "The ancient Christian practice of praying at fixed hours throughout the day."
+  },
+  {
+    "slug": "what-is-ordinary-time",
+    "title": "What is Ordinary Time?",
+    "category": "seasons",
+    "summary": "The longest season of the church year — a time for steady growth in faith."
+  },
+  {
+    "slug": "what-is-lent",
+    "title": "What is Lent?",
+    "category": "seasons",
+    "summary": "Forty days of preparation, penitence, and renewal before Easter."
+  },
+  {
+    "slug": "what-is-advent",
+    "title": "What is Advent?",
+    "category": "seasons",
+    "summary": "A season of expectation and preparation for both Christmas and Christ's return."
+  },
+  {
+    "slug": "what-is-epiphany",
+    "title": "What is Epiphany?",
+    "category": "seasons",
+    "summary": "The revelation of Christ to the world — light shining in darkness."
+  },
+  {
+    "slug": "what-is-pentecost",
+    "title": "What is Pentecost?",
+    "category": "seasons",
+    "summary": "The coming of the Holy Spirit and the birth of the Church."
+  },
+  {
+    "slug": "why-liturgical-seasons",
+    "title": "Why Liturgical Seasons?",
+    "category": "foundations",
+    "summary": "How the church year shapes our spiritual lives by walking through the story of salvation."
+  },
+  {
+    "slug": "why-do-we-use-collects",
+    "title": "Why Do We Use Collects?",
+    "category": "prayer",
+    "summary": "These ancient, carefully crafted prayers \"collect\" our intentions before God."
+  },
+  {
+    "slug": "what-is-the-venite",
+    "title": "What is the Venite?",
+    "category": "prayer",
+    "summary": "Psalm 95 — the ancient call to worship that opens Morning Prayer."
+  },
+  {
+    "slug": "what-is-the-benedictus",
+    "title": "What is the Benedictus?",
+    "category": "prayer",
+    "summary": "Zechariah's song of praise at the birth of John the Baptist."
+  },
+  {
+    "slug": "what-is-the-nunc-dimittis",
+    "title": "What is the Nunc Dimittis?",
+    "category": "prayer",
+    "summary": "Simeon's song — the ancient night prayer of release and peace."
+  },
+  {
+    "slug": "what-is-the-invitatory",
+    "title": "What is the Invitatory?",
+    "category": "prayer",
+    "summary": "The opening dialogue that calls us from our daily lives into the presence of God."
+  },
+  {
+    "slug": "what-is-the-gloria-patri",
+    "title": "What is the Gloria Patri?",
+    "category": "prayer",
+    "summary": "The brief doxology affirming the Trinity, prayed since the fourth century."
+  },
+  {
+    "slug": "what-is-the-apostles-creed",
+    "title": "What is the Apostles' Creed?",
+    "category": "foundations",
+    "summary": "The oldest summary of Christian faith — what the Church has always believed."
+  },
+  {
+    "slug": "why-confession-of-sin",
+    "title": "Why Confession of Sin?",
+    "category": "prayer",
+    "summary": "Beginning prayer with honest acknowledgment clears the way for genuine encounter with God."
+  },
+  {
+    "slug": "what-is-the-psalter",
+    "title": "What is the Psalter?",
+    "category": "foundations",
+    "summary": "The prayer book of Jesus and the early church — 150 psalms for every human emotion."
+  }
+]

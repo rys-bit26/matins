@@ -1,0 +1,49 @@
+{
+  "venite": {
+    "number": 0,
+    "name": "Venite",
+    "latin": "Venite, exultemus Domino",
+    "english": "Come, let us sing to the Lord",
+    "source": "Psalm 95:1-7",
+    "text": "Come, let us sing to the Lord;\nlet us shout for joy to the Rock of our salvation.\nLet us come before his presence with thanksgiving\nand raise a loud shout to him with psalms.\n\nFor the Lord is a great God,\nand a great King above all gods.\nIn his hand are the caverns of the earth,\nand the heights of the hills are his also.\nThe sea is his, for he made it,\nand his hands have molded the dry land.\n\nCome, let us bow down, and bend the knee,\nand kneel before the Lord our Maker.\nFor he is our God,\nand we are the people of his pasture\nand the sheep of his hand.\nOh, that today you would hearken to his voice!",
+    "whyTopic": "what-is-the-venite",
+    "use": "invitatory"
+  },
+  "jubilate": {
+    "number": 0,
+    "name": "Jubilate",
+    "latin": "Jubilate Deo",
+    "english": "Be joyful in the Lord, all you lands",
+    "source": "Psalm 100",
+    "text": "Be joyful in the Lord, all you lands;\nserve the Lord with gladness\nand come before his presence with a song.\n\nKnow this: The Lord himself is God;\nhe himself has made us, and we are his;\nwe are his people and the sheep of his pasture.\n\nEnter his gates with thanksgiving;\ngo into his courts with praise;\ngive thanks to him and call upon his Name.\n\nFor the Lord is good;\nhis mercy is everlasting;\nand his faithfulness endures from age to age.",
+    "use": "invitatory-alternate"
+  },
+  "christOurPassover": {
+    "number": 0,
+    "name": "Christ our Passover",
+    "latin": "Pascha nostrum",
+    "english": "Alleluia. Christ our Passover has been sacrificed for us",
+    "source": "1 Corinthians 5:7-8; Romans 6:9-11; 1 Corinthians 15:20-22",
+    "text": "Alleluia.\nChrist our Passover has been sacrificed for us;\ntherefore let us keep the feast,\nNot with the old leaven, the leaven of malice and evil,\nbut with the unleavened bread of sincerity and truth. Alleluia.\n\nChrist being raised from the dead will never die again;\ndeath no longer has dominion over him.\nThe death that he died, he died to sin, once for all;\nbut the life he lives, he lives to God.\nSo also consider yourselves dead to sin,\nand alive to God in Jesus Christ our Lord. Alleluia.\n\nChrist has been raised from the dead,\nthe first fruits of those who have fallen asleep.\nFor since by a man came death,\nby a man has come also the resurrection of the dead.\nFor as in Adam all die,\nso also in Christ shall all be made alive. Alleluia.",
+    "use": "invitatory-easter"
+  },
+  "benedictus": {
+    "number": 16,
+    "name": "Benedictus Dominus Deus",
+    "latin": "Benedictus Dominus Deus",
+    "english": "The Song of Zechariah",
+    "source": "Luke 1:68-79",
+    "text": "Blessed be the Lord, the God of Israel;\nhe has come to his people and set them free.\n\nHe has raised up for us a mighty savior,\nborn of the house of his servant David.\n\nThrough his holy prophets he promised of old,\nthat he would save us from our enemies,\nfrom the hands of all who hate us.\n\nHe promised to show mercy to our fathers\nand to remember his holy covenant.\n\nThis was the oath he swore to our father Abraham,\nto set us free from the hands of our enemies,\nFree to worship him without fear,\nholy and righteous in his sight\nall the days of our life.\n\nYou, my child, shall be called the prophet of the Most High,\nfor you will go before the Lord to prepare his way,\nTo give his people knowledge of salvation\nby the forgiveness of their sins.\n\nIn the tender compassion of our God\nthe dawn from on high shall break upon us,\nTo shine on those who dwell in darkness and the shadow of death,\nand to guide our feet into the way of peace.",
+    "whyTopic": "what-is-the-benedictus",
+    "use": "after-ot"
+  },
+  "teDeum": {
+    "number": 7,
+    "name": "Te Deum laudamus",
+    "latin": "Te Deum laudamus",
+    "english": "We praise you, O God",
+    "source": "",
+    "text": "We praise you, O God,\nwe acclaim you as Lord;\nall creation worships you,\nthe Father everlasting.\n\nTo you all angels, all the powers of heaven,\nthe cherubim and seraphim, sing in endless praise:\nHoly, holy, holy Lord, God of power and might,\nheaven and earth are full of your glory.\n\nThe glorious company of apostles praise you.\nThe noble fellowship of prophets praise you.\nThe white-robed army of martyrs praise you.\n\nThroughout the world the holy Church acclaims you:\nFather, of majesty unbounded,\nyour true and only Son, worthy of all worship,\nand the Holy Spirit, advocate and guide.\n\nYou, Christ, are the king of glory,\nthe eternal Son of the Father.\nWhen you became man to set us free\nyou did not shun the Virgin's womb.\n\nYou overcame the sting of death\nand opened the kingdom of heaven to all believers.\nYou are seated at God's right hand in glory.\nWe believe that you will come to be our judge.\n\nCome then, Lord, and help your people,\nbought with the price of your own blood,\nand bring us with your saints\nto glory everlasting.",
+    "use": "after-ot-alternate"
+  }
+}

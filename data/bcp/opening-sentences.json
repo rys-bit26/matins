@@ -1,0 +1,86 @@
+{
+  "default": [
+    {
+      "text": "Lord, open our lips.",
+      "response": "And our mouth shall proclaim your praise.",
+      "source": "Psalm 51:15"
+    }
+  ],
+  "advent": [
+    {
+      "text": "In the wilderness prepare the way of the Lord, make straight in the desert a highway for our God.",
+      "source": "Isaiah 40:3"
+    },
+    {
+      "text": "The glory of the Lord shall be revealed, and all flesh shall see it together.",
+      "source": "Isaiah 40:5"
+    }
+  ],
+  "christmas": [
+    {
+      "text": "Behold, I bring you good news of a great joy which will come to all the people; for to you is born this day in the city of David, a Savior, who is Christ the Lord.",
+      "source": "Luke 2:10-11"
+    }
+  ],
+  "epiphany": [
+    {
+      "text": "Nations shall come to your light, and kings to the brightness of your rising.",
+      "source": "Isaiah 60:3"
+    },
+    {
+      "text": "From the rising of the sun to its setting my Name shall be great among the nations, and in every place incense shall be offered to my Name, and a pure offering; for my Name shall be great among the nations, says the Lord of hosts.",
+      "source": "Malachi 1:11"
+    }
+  ],
+  "lent": [
+    {
+      "text": "If we say we have no sin, we deceive ourselves, and the truth is not in us; but if we confess our sins, God who is faithful and just will forgive our sins and cleanse us from all unrighteousness.",
+      "source": "1 John 1:8-9"
+    },
+    {
+      "text": "Rend your hearts and not your garments. Return to the Lord your God, for he is gracious and merciful, slow to anger and abounding in steadfast love, and repents of evil.",
+      "source": "Joel 2:13"
+    }
+  ],
+  "holy-week": [
+    {
+      "text": "All we like sheep have gone astray; we have turned every one to his own way; and the Lord has laid on him the iniquity of us all.",
+      "source": "Isaiah 53:6"
+    }
+  ],
+  "easter": [
+    {
+      "text": "Alleluia! Christ is risen.",
+      "response": "The Lord is risen indeed. Alleluia!",
+      "source": ""
+    },
+    {
+      "text": "Thanks be to God, who gives us the victory through our Lord Jesus Christ.",
+      "source": "1 Corinthians 15:57"
+    }
+  ],
+  "pentecost": [
+    {
+      "text": "The Spirit of the Lord is upon me, because he has anointed me to preach good news to the poor.",
+      "source": "Luke 4:18"
+    }
+  ],
+  "ordinary-time": [
+    {
+      "text": "The Lord is in his holy temple; let all the earth keep silence before him.",
+      "source": "Habakkuk 2:20"
+    },
+    {
+      "text": "I was glad when they said to me, \"Let us go to the house of the Lord.\"",
+      "source": "Psalm 122:1"
+    },
+    {
+      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my strength and my redeemer.",
+      "source": "Psalm 19:14"
+    },
+    {
+      "text": "Send out your light and your truth, that they may lead me, and bring me to your holy hill and to your dwelling.",
+      "source": "Psalm 43:3"
+    }
+  ]
+}

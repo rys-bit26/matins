@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "augustine-restless-heart",
+    "title": "The Restless Heart",
+    "author": "Augustine of Hippo",
+    "source": "Confessions, Book I",
+    "circa": "397",
+    "tags": ["longing", "prayer", "conversion"],
+    "seasons": ["lent", "ordinary-time"]
+  },
+  {
+    "slug": "augustine-late-have-i-loved",
+    "title": "Late Have I Loved You",
+    "author": "Augustine of Hippo",
+    "source": "Confessions, Book X",
+    "circa": "397",
+    "tags": ["beauty", "seeking", "love"],
+    "seasons": ["easter", "ordinary-time"]
+  },
+  {
+    "slug": "kempis-imitation-inward-life",
+    "title": "On the Inward Life",
+    "author": "Thomas à Kempis",
+    "source": "The Imitation of Christ, Book II",
+    "circa": "1418",
+    "tags": ["interior-life", "silence", "devotion"],
+    "seasons": ["lent", "ordinary-time"]
+  },
+  {
+    "slug": "kempis-carrying-the-cross",
+    "title": "On Carrying the Cross",
+    "author": "Thomas à Kempis",
+    "source": "The Imitation of Christ, Book II",
+    "circa": "1418",
+    "tags": ["suffering", "perseverance", "cross"],
+    "seasons": ["lent", "holy-week"]
+  },
+  {
+    "slug": "brother-lawrence-practice-presence",
+    "title": "The Practice of the Presence of God",
+    "author": "Brother Lawrence",
+    "source": "Conversations and Letters",
+    "circa": "1692",
+    "tags": ["prayer", "daily-life", "presence"],
+    "seasons": ["ordinary-time", "epiphany"]
+  },
+  {
+    "slug": "julian-all-shall-be-well",
+    "title": "All Shall Be Well",
+    "author": "Julian of Norwich",
+    "source": "Revelations of Divine Love",
+    "circa": "1395",
+    "tags": ["hope", "trust", "suffering"],
+    "seasons": ["easter", "ordinary-time"]
+  },
+  {
+    "slug": "chrysostom-prayer-morning",
+    "title": "On Morning Prayer",
+    "author": "John Chrysostom",
+    "source": "Homilies",
+    "circa": "400",
+    "tags": ["prayer", "morning", "discipline"],
+    "seasons": ["ordinary-time", "epiphany"]
+  },
+  {
+    "slug": "bonhoeffer-psalms-prayerbook",
+    "title": "The Psalms as the Prayer Book of the Church",
+    "author": "Dietrich Bonhoeffer",
+    "source": "Psalms: The Prayer Book of the Bible",
+    "circa": "1940",
+    "tags": ["psalms", "prayer", "community"],
+    "seasons": ["ordinary-time"]
+  },
+  {
+    "slug": "lewis-weight-of-glory",
+    "title": "The Weight of Glory",
+    "author": "C.S. Lewis",
+    "source": "The Weight of Glory",
+    "circa": "1941",
+    "tags": ["glory", "desire", "heaven"],
+    "seasons": ["easter", "advent"]
+  },
+  {
+    "slug": "athanasius-incarnation",
+    "title": "On the Incarnation",
+    "author": "Athanasius of Alexandria",
+    "source": "On the Incarnation",
+    "circa": "318",
+    "tags": ["incarnation", "redemption", "christ"],
+    "seasons": ["christmas", "advent"]
+  }
+]
