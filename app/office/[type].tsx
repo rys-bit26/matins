@@ -42,8 +42,9 @@ export default function OfficeScreen() {
     <SafeAreaView style={styles.container}>
       {/* Header bar */}
       <View style={styles.headerBar}>
-        <Pressable onPress={() => router.back()} style={styles.closeButton}>
-          <Text style={styles.closeText}>✕</Text>
+        <Pressable onPress={() => router.back()} style={styles.closeButton} hitSlop={8}>
+          <Text style={styles.closeIcon}>‹</Text>
+          <Text style={styles.closeLabel}>Close</Text>
         </Pressable>
         <View style={styles.headerCenter}>
           <View style={[styles.seasonDot, { backgroundColor: seasonColor }]} />
@@ -87,14 +88,21 @@ const styles = StyleSheet.create({
     borderBottomColor: colors.border,
   },
   closeButton: {
-    width: 40,
-    height: 40,
+    flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'center',
+    minHeight: 40,
+    paddingRight: spacing.sm,
   },
-  closeText: {
-    color: colors.text.secondary,
-    fontSize: 18,
+  closeIcon: {
+    color: colors.text.primary,
+    fontSize: 28,
+    lineHeight: 28,
+    marginRight: 2,
+  },
+  closeLabel: {
+    color: colors.text.primary,
+    fontSize: 16,
+    fontWeight: '500',
   },
   headerCenter: {
     flexDirection: 'row',
@@ -111,7 +119,7 @@ const styles = StyleSheet.create({
     color: colors.text.primary,
   },
   headerRight: {
-    width: 40,
+    width: 72,
   },
   dayBar: {
     paddingHorizontal: spacing.screen,

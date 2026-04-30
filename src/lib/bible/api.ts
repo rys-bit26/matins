@@ -86,10 +86,13 @@ export async function fetchPassage(
 
   const data: BibleApiResponse = await response.json();
 
+  // bible-api.com embeds newlines and double-spaces inside verse text for
+  // poetic structure. Collapse all whitespace so React Native Text wraps the
+  // verse naturally instead of inheriting forced breaks from the API payload.
   const verses: BibleVerse[] = data.verses.map((v) => ({
     chapter: v.chapter,
     verse: v.verse,
-    text: v.text.trim(),
+    text: v.text.replace(/\s+/g, ' ').trim(),
   }));
 
   return {
