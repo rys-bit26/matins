@@ -12,6 +12,7 @@ import {
 } from '@expo-google-fonts/cormorant';
 import * as SplashScreen from 'expo-splash-screen';
 import { Platform } from 'react-native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { colors } from '../src/theme';
 
 SplashScreen.preventAutoHideAsync().catch(() => {});
@@ -38,15 +39,16 @@ export default function RootLayout() {
   }
 
   return (
-    <QueryClientProvider client={queryClient}>
-      <StatusBar style="light" />
-      <Stack
-        screenOptions={{
-          headerShown: false,
-          contentStyle: { backgroundColor: colors.background.primary },
-          animation: 'fade',
-        }}
-      >
+    <SafeAreaProvider>
+      <QueryClientProvider client={queryClient}>
+        <StatusBar style="light" />
+        <Stack
+          screenOptions={{
+            headerShown: false,
+            contentStyle: { backgroundColor: colors.background.primary },
+            animation: 'fade',
+          }}
+        >
         <Stack.Screen name="(tabs)" />
         <Stack.Screen
           name="office/[type]"
@@ -105,7 +107,8 @@ export default function RootLayout() {
             headerTitle: '',
           }}
         />
-      </Stack>
-    </QueryClientProvider>
+        </Stack>
+      </QueryClientProvider>
+    </SafeAreaProvider>
   );
 }
